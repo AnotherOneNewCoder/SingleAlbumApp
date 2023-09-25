@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SingleAlbumApp</string>
+    <string name="button_stop">Button stop</string>
+    <string name="button_play">Button play</string>
+    <string name="album_name">Album name</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist:</string>
+    <string name="track_name">Track name</string>
+</resources>
